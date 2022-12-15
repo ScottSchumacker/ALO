@@ -18,6 +18,8 @@ Feeling = ["how are you feeling?", "how are you?", "how do you feel?", "are you 
            'are you angry?', "what do you feel?"]
 feelingResponse = ["I am doing well", "I have been better", "I am great!", "I am happy", "I am sad"]
 
+# Likes = []
+
 # Creating a variable to leave the chat
 leave = "bye"
 
